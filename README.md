@@ -16,3 +16,4 @@ A list of implementation of algorithms
 | 2 | Selection Sort | [Link](sorting/selection-sort.cpp) | - |
 | 3 | Insertion Sort | [Link](sorting/insertion-sort.cpp) | - |
 | 4 | Merge Sort | [Link](sorting/merge-sort.cpp) | - |
+| 5 | Quick Sort | [Link](sorting/quick-sort.cpp) | [Randomized](sorting/quick-sort-randomized.cpp) |
