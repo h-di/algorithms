@@ -10,8 +10,9 @@ A list of implementation of algorithms
 
 ## Sorting
 
-| S.no. | Algorithm | Implementation | Optimized solution |
+| S.no. | Algorithm | Implementation | Optimization |
 | --- | --- | --- | --- |
 | 1 | Bubble Sort | [Link](sorting/bubble-sort.cpp) | [Link](sorting/bubble-sort-optimized.cpp) |
 | 2 | Selection Sort | [Link](sorting/selection-sort.cpp) | - |
 | 3 | Insertion Sort | [Link](sorting/insertion-sort.cpp) | - |
+| 4 | Merge Sort | [Link](sorting/merge-sort.cpp) | - |
