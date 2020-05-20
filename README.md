@@ -13,3 +13,4 @@ A list of implementation of algorithms
 | S.no. | Algorithm | Implementation | Optimized solution |
 | --- | --- | --- | --- |
 | 1 | Bubble Sort | [Link](sorting/bubble-sort.cpp) | [Link](sorting/bubble-sort-optimized.cpp) |
+| 2 | Selection Sort | [Link](sorting/selection-sort.cpp) | - |
