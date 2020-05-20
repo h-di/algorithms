@@ -13,7 +13,8 @@ void selectionSort(int a[], int n) {
 			if(a[j] < a[min_index])
 				min_index = j;
 		}
-		swap(a[min_index], a[i]);
+		if(i != min_index)
+			swap(a[min_index], a[i]);
 	}
 }
 
