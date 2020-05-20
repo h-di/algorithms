@@ -4,7 +4,7 @@ using namespace std;
 
 // *************************** MERGE SORT ***************************
 
-// Parameters: (Array name, Array size)
+// Parameters: (Array name, Array start index, Array mid index, Array end index)
 void merge(int a[], int l, int m, int r) {
 	int lsize = m-l+1;
 	int left[lsize];
@@ -40,6 +40,7 @@ void merge(int a[], int l, int m, int r) {
 	}
 }
 
+// Parameters: (Array name, Array start index, Array end index)
 void mergeSort(int a[], int l, int r) {
 	if(l < r) {
 		int mid = l+(r-l)/2;
