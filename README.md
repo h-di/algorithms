@@ -17,3 +17,13 @@ A list of implementation of algorithms
 | 3 | Insertion Sort | [Link](sorting/insertion-sort.cpp) | - |
 | 4 | Merge Sort | [Link](sorting/merge-sort.cpp) | - |
 | 5 | Quick Sort | [Link](sorting/quick-sort.cpp) | [Randomized](sorting/quick-sort-randomized.cpp) |
+
+## MathCepts
+
+Oh, it's just (Math + Concepts) 😉
+
+### Primality
+
+| S.no. | Algorithm | Implementation |
+| --- | --- | --- |
+| 1 | Sieve of Eratosthenes | [Link](math/primality/sieve-of-eratosthenes.cpp) |
